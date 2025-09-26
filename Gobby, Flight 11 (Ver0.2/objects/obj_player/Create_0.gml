@@ -1,0 +1,9 @@
+forceup = 0;
+angle = 0;
+maxangle = 0;
+hp_total = 10;
+hp = hp_total;
+current_level = 1;
+can_be_hit = true;
+invincibility_time = 0;
+invincibility_duration = 90;
