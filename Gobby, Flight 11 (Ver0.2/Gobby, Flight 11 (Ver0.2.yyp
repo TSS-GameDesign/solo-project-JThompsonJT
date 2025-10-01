@@ -47,6 +47,7 @@
     {"id":{"name":"spr_obstacle","path":"sprites/spr_obstacle/spr_obstacle.yy",},},
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
     {"id":{"name":"spr_player_up","path":"sprites/spr_player_up/spr_player_up.yy",},},
+    {"id":{"name":"spr_power_up","path":"sprites/spr_power_up/spr_power_up.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

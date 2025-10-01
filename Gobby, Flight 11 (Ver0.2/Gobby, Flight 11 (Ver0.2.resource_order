@@ -25,5 +25,6 @@
     {"name":"spr_clear","order":6,"path":"sprites/spr_clear/spr_clear.yy",},
     {"name":"spr_obstacle","order":2,"path":"sprites/spr_obstacle/spr_obstacle.yy",},
     {"name":"spr_player_down","order":3,"path":"sprites/spr_player_down/spr_player_down.yy",},
+    {"name":"spr_power_up","order":7,"path":"sprites/spr_power_up/spr_power_up.yy",},
   ],
 }
