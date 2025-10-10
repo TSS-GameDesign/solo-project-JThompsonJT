@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_border_bottom","order":3,"path":"objects/obj_border_bottom/obj_border_bottom.yy",},
     {"name":"obj_border_top","order":2,"path":"objects/obj_border_top/obj_border_top.yy",},
+    {"name":"obj_health_up","order":4,"path":"objects/obj_health_up/obj_health_up.yy",},
     {"name":"obj_obstacle","order":1,"path":"objects/obj_obstacle/obj_obstacle.yy",},
     {"name":"spr_background_bottom","order":1,"path":"sprites/spr_background_bottom/spr_background_bottom.yy",},
     {"name":"spr_box","order":4,"path":"sprites/spr_box/spr_box.yy",},
