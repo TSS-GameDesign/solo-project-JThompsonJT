@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_power_up",
-    "path":"sprites/spr_power_up/spr_power_up.yy",
+    "name":"spr_health_up",
+    "path":"sprites/spr_health_up/spr_health_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,
