@@ -58,4 +58,9 @@ if y >= 576
 	room_restart()
 }
 
-
+frame_counter ++;
+if frame_counter >= 180
+{
+	add_xp(15);
+	frame_counter = 0;
+}
