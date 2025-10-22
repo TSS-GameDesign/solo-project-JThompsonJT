@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_obstacle",
+  "%Name":"spr_obstacle_1",
   "bboxMode":0,
   "bbox_bottom":999,
   "bbox_left":0,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"fd9084b4-8dc0-4e2d-a3c2-710cbc9d56c0","blendMode":0,"displayName":"default","isLocked":false,"name":"fd9084b4-8dc0-4e2d-a3c2-710cbc9d56c0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_obstacle",
+  "name":"spr_obstacle_1",
   "nineSlice":{
     "$GMNineSliceData":"",
     "bottom":16,
@@ -42,7 +42,7 @@
     ],
     "top":16,
   },
-  "origin":1,
+  "origin":7,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -90,14 +90,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a6692c6-f4f4-4874-b623-bb90492f3a10","path":"sprites/spr_obstacle/spr_obstacle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a6692c6-f4f4-4874-b623-bb90492f3a10","path":"sprites/spr_obstacle_1/spr_obstacle_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"564abaf8-5d32-48a4-9c8f-75700c444429","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
     "xorigin":32,
-    "yorigin":0,
+    "yorigin":1000,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
