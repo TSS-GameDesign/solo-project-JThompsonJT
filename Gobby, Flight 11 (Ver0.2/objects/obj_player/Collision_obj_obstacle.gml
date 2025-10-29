@@ -7,5 +7,6 @@ if (can_be_hit == true)
 }
 if (hp <= 0)
 {
+	
 	room_restart()
 }

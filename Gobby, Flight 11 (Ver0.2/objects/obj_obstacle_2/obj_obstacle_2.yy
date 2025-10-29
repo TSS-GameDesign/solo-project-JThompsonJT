@@ -8,8 +8,8 @@
   "name":"obj_obstacle_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Collisions",
+    "path":"folders/Objects/Collisions.yy",
   },
   "parentObjectId":{
     "name":"obj_obstacle",

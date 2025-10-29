@@ -55,6 +55,7 @@ if y <= 0
 }
 if y >= 576
 {
+	
 	room_restart()
 }
 

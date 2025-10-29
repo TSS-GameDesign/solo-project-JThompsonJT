@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_Tally_Hall___Welcome_To_Tally_Hall__mp3_pm_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":310.57086,
+  "name":"snd_Tally_Hall___Welcome_To_Tally_Hall__mp3_pm_",
+  "parent":{
+    "name":"BKG Music",
+    "path":"folders/Sounds/BKG Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_Tally_Hall___Welcome_To_Tally_Hall__mp3_pm_.mp3",
+  "type":0,
+  "volume":1.0,
+}
