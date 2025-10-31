@@ -3,8 +3,8 @@
   "%Name":"spr_obstacle_1",
   "bboxMode":0,
   "bbox_bottom":999,
-  "bbox_left":0,
-  "bbox_right":63,
+  "bbox_left":4,
+  "bbox_right":59,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8a6692c6-f4f4-4874-b623-bb90492f3a10","name":"8a6692c6-f4f4-4874-b623-bb90492f3a10","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"928176c0-b986-4ce4-bdcd-f7743329e4cd","name":"928176c0-b986-4ce4-bdcd-f7743329e4cd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1000,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"fd9084b4-8dc0-4e2d-a3c2-710cbc9d56c0","blendMode":0,"displayName":"default","isLocked":false,"name":"fd9084b4-8dc0-4e2d-a3c2-710cbc9d56c0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ec782017-e8fc-417c-8bd8-4f68cae73d0b","blendMode":0,"displayName":"default","isLocked":false,"name":"ec782017-e8fc-417c-8bd8-4f68cae73d0b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_obstacle_1",
   "nineSlice":{
@@ -90,8 +90,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a6692c6-f4f4-4874-b623-bb90492f3a10","path":"sprites/spr_obstacle_1/spr_obstacle_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"564abaf8-5d32-48a4-9c8f-75700c444429","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"928176c0-b986-4ce4-bdcd-f7743329e4cd","path":"sprites/spr_obstacle_1/spr_obstacle_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"bd4710e0-d37e-473c-860a-bd9cb6567b24","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
