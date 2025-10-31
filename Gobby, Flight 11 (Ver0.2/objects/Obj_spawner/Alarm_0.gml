@@ -26,6 +26,6 @@ else if global.current_level = 20
 instance_create_layer(1100, center_point + spread, "instances", obj_obstacle);
 instance_create_layer(1100, center_point - spread, "instances", obj_obstacle_2);
 instance_create_layer(hp_distance, center_point, "instances", obj_health_up);
-
+instance_create_layer(hp_distance, center_point, "instances", obj_xp_up);
 
 alarm_set(0, 180);

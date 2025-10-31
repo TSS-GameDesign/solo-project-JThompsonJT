@@ -53,6 +53,7 @@
     {"id":{"name":"obj_sound_manager","path":"objects/obj_sound_manager/obj_sound_manager.yy",},},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
+    {"id":{"name":"obj_xp_up","path":"objects/obj_xp_up/obj_xp_up.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Title","path":"rooms/Title/Title.yy",},},
     {"id":{"name":"snd_Banana_Man","path":"sounds/snd_Banana_Man/snd_Banana_Man.yy",},},
