@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mute_button",
+  "%Name":"obj_to_vol",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_mute_button",
+  "name":"obj_to_vol",
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mute_button",
-    "path":"sprites/spr_mute_button/spr_mute_button.yy",
+    "name":"spr_to_vol",
+    "path":"sprites/spr_to_vol/spr_to_vol.yy",
   },
   "spriteMaskId":null,
   "visible":true,
