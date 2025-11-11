@@ -1,15 +1,17 @@
-if (current_sound_id == -1 || !audio_is_playing(current_sound_id)) {
-    if (current_sound_index < array_length(sound_list)) {
-        current_sound_id = audio_play_sound(sound_list[current_sound_index], 10, false);
-        current_sound_index++;
-    } else {
+if room = Room1
+{
+	if (current_sound_id == -1 || !audio_is_playing(current_sound_id)) {
+	    if (current_sound_index < array_length(sound_list)) {
+	        current_sound_id = audio_play_sound(sound_list[current_sound_index], 10, false);
+	        current_sound_index++;
+	    } else {
        
-        current_sound_index = 0;
-        current_sound_id = -1;
-    }
+	        current_sound_index = 0;
+	        current_sound_id = -1;
+	    }
+	}
 }
-
-if room = Volume_ctrl
+else if room = Volume_ctrl
 {
 	if global.Volume = false
 	{
@@ -28,4 +30,12 @@ else
         current_sound_id = -1;
 		 }
 	}
+}
+if room = Title
+{
+	audio_play_sound(Title_Music, 1, true);
+}
+else
+{
+	audio_stop_sound(Title_Music)
 }
