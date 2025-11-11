@@ -24,6 +24,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_back","order":3,"path":"objects/obj_back/obj_back.yy",},
     {"name":"obj_border_top","order":1,"path":"objects/obj_border_top/obj_border_top.yy",},
     {"name":"obj_health_up","order":2,"path":"objects/obj_health_up/obj_health_up.yy",},
     {"name":"obj_obstacle_2","order":4,"path":"objects/obj_obstacle_2/obj_obstacle_2.yy",},

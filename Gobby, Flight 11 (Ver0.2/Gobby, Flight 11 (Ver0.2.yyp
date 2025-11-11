@@ -43,6 +43,7 @@
   "name":"Gobby, Flight 11 (Ver0.2",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"obj_back","path":"objects/obj_back/obj_back.yy",},},
     {"id":{"name":"obj_border_bottom","path":"objects/obj_border_bottom/obj_border_bottom.yy",},},
     {"id":{"name":"obj_border_top","path":"objects/obj_border_top/obj_border_top.yy",},},
     {"id":{"name":"obj_health_up","path":"objects/obj_health_up/obj_health_up.yy",},},
