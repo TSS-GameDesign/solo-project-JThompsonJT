@@ -31,9 +31,14 @@ else
 		 }
 	}
 }
+var sound_play = 1
 if room = Title
 {
-	audio_play_sound(Title_Music, 1, true);
+	if sound_play = 1
+	{
+		audio_play_sound(Title_Music, 1, true);
+		sound_play = 0
+	}
 }
 else
 {
