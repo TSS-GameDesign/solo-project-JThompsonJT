@@ -1,1 +1,1 @@
-alarm[0] = 90;
+alarm[0] = 90;alarm[0] = 90; //States current alarm set for the loop

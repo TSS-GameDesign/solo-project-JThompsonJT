@@ -1,4 +1,4 @@
-if (can_be_hit == true)
+if (can_be_hit == true) //Adds health and sets temporary invincibility 
 {
 	hp += 2;
 	can_be_hit = false;

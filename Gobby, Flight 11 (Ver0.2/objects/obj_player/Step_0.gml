@@ -1,10 +1,9 @@
-//action
+//action(jumping/flying movement
 if (mouse_check_button_released(mb_left))
 {
 	forceup = -5;
 }
 
-//action
 if (mouse_check_button_released(mb_right))
 {
 	forceup = -5;
@@ -23,7 +22,7 @@ if (keyboard_check_released(vk_up))
 y += forceup;
 forceup += 0.10;
 
-//animation
+//animation(changes sprite based on if object is going up or down)
 if (y > yprevious)
 {
 	sprite_index = spr_player_down;
@@ -39,28 +38,28 @@ else
 angle = lerp(angle, maxangle, 0.1);
 image_angle = angle;
  
-//checks if invicibility_time is more than 0
+//Checks if invicibility_time is more than 0
 if (invincibility_time > 0)
 {
 	invincibility_time--;
 }
-//if time is less than or equal 0, make hitable
+//If time is less than or equal 0, make hitable
 if (invincibility_time <= 0)
 {
 	can_be_hit = true
 }
-if y <= 0
+if y <= 0 //Throws player down if they are above acceptable area
 {
 	y = -50;
 }
-if y >= 576
+if y >= 576 //Restarts if player hits the ground
 {
 	
 	room_restart()
 }
 
-frame_counter ++;
-if frame_counter >= 180
+frame_counter ++; //Adds 1 to the frame_counter
+if frame_counter >= 180 //Adds xp if frame_counter is greater than or equal to 180 then resets counter
 {
 	add_xp(15);
 	frame_counter = 0;

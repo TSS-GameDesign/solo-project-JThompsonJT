@@ -1,4 +1,4 @@
-if room = Room1
+if room = Room1 //When game is playing plays songs in order on loop
 {
 	if (current_sound_id == -1 || !audio_is_playing(current_sound_id)) {
 	    if (current_sound_index < array_length(sound_list)) {
@@ -11,7 +11,7 @@ if room = Room1
 	    }
 	}
 }
-else if room = Volume_ctrl
+else if room = Volume_ctrl //Helps with the mute controls
 {
 	if global.Volume = false
 	{
