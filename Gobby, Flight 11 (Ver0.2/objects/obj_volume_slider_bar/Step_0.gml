@@ -23,3 +23,4 @@ if selected
     }
 }
 
+display_value = value * 100;

@@ -50,7 +50,7 @@ if (invincibility_time <= 0)
 }
 if y <= 0 //Throws player down if they are above acceptable area
 {
-	y = -50;
+	y = -1;
 }
 if y >= 576 //Restarts if player hits the ground
 {
