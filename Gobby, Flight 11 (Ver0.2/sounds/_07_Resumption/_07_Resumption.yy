@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"_07_Resumption",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":175.66553,
+  "name":"_07_Resumption",
+  "parent":{
+    "name":"Marching Tunes",
+    "path":"folders/Sounds/BKG Music/Marching Tunes.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_07_Resumption.mp3",
+  "type":0,
+  "volume":1.0,
+}

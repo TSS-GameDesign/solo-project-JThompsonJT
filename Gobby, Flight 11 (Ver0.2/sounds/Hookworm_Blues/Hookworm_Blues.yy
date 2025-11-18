@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Hookworm_Blues",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":177.72554,
+  "name":"Hookworm_Blues",
+  "parent":{
+    "name":"Rag Time",
+    "path":"folders/Sounds/BKG Music/Rag Time.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Hookworm_Blues.mp3",
+  "type":0,
+  "volume":1.0,
+}

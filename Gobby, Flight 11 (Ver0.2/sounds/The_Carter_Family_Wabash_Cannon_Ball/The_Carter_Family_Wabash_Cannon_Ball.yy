@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"The_Carter_Family_Wabash_Cannon_Ball",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":177.70232,
+  "name":"The_Carter_Family_Wabash_Cannon_Ball",
+  "parent":{
+    "name":"Country & Western",
+    "path":"folders/Sounds/BKG Music/Country & Western.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"The_Carter_Family_Wabash_Cannon_Ball.mp3",
+  "type":0,
+  "volume":1.0,
+}

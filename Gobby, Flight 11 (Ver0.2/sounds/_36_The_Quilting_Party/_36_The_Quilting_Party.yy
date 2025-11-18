@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"_36_The_Quilting_Party",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":89.57877,
+  "name":"_36_The_Quilting_Party",
+  "parent":{
+    "name":"Marching Tunes",
+    "path":"folders/Sounds/BKG Music/Marching Tunes.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"_36_The_Quilting_Party.mp3",
+  "type":0,
+  "volume":1.0,
+}

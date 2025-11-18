@@ -1,0 +1,3 @@
+global._Song1 = The_Carter_Family_Wabash_Cannon_Ball;
+global._Song2 = John_Prine___My_Old_Kentucky_Home__Goodnight__Official_Video_;
+global._Song3 = GRANDFATHER_S_CLOCK_1876___Performed_by_Tom_Roush;

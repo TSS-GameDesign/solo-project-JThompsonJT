@@ -12,8 +12,8 @@
   "duration":96.432014,
   "name":"Music1_unknown",
   "parent":{
-    "name":"BKG Music",
-    "path":"folders/Sounds/BKG Music.yy",
+    "name":"Rag Time",
+    "path":"folders/Sounds/BKG Music/Rag Time.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
