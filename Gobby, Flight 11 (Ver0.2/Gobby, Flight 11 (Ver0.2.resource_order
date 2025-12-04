@@ -29,11 +29,11 @@
   "ResourceOrderSettings":[
     {"name":"obj_back","order":3,"path":"objects/obj_back/obj_back.yy",},
     {"name":"obj_border_top","order":1,"path":"objects/obj_border_top/obj_border_top.yy",},
-    {"name":"obj_country_western","order":7,"path":"objects/obj_country_western/obj_country_western.yy",},
     {"name":"obj_health_up","order":2,"path":"objects/obj_health_up/obj_health_up.yy",},
     {"name":"obj_marching_tunes","order":6,"path":"objects/obj_marching_tunes/obj_marching_tunes.yy",},
     {"name":"obj_obstacle_2","order":4,"path":"objects/obj_obstacle_2/obj_obstacle_2.yy",},
     {"name":"obj_obstacle","order":3,"path":"objects/obj_obstacle/obj_obstacle.yy",},
+    {"name":"obj_Old_Music","order":7,"path":"objects/obj_Old_Music/obj_Old_Music.yy",},
     {"name":"obj_rag_time","order":5,"path":"objects/obj_rag_time/obj_rag_time.yy",},
     {"name":"obj_spawner","order":1,"path":"objects/obj_spawner/obj_spawner.yy",},
     {"name":"obj_start","order":1,"path":"objects/obj_start/obj_start.yy",},

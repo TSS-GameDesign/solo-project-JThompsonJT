@@ -8,5 +8,6 @@ if (can_be_hit == true) //If object can be hit subtracts 2 hp and 10 xp before s
 if (hp <= 0) //Restarts the game if player dies
 {
 	
-	room_restart()
+	image_index = 8
+	room_restart();
 }

@@ -64,3 +64,27 @@ if frame_counter >= 180 //Adds xp if frame_counter is greater than or equal to 1
 	add_xp(15);
 	frame_counter = 0;
 }
+
+if hp = hp_total
+{
+	image_index = 0;
+}
+else if hp = 8
+{
+	image_index = 1;
+}
+else if hp = 6
+{
+	image_index = 2;
+}
+else if hp = 4
+{
+	image_index = 3;
+}
+else if hp = 2
+{
+	image_index = 4;
+}else if hp = 0
+{
+	image_index = 5;
+}
