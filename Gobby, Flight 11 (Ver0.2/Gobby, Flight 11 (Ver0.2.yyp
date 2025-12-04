@@ -57,6 +57,7 @@
     {"id":{"name":"obj_Old_Music","path":"objects/obj_Old_Music/obj_Old_Music.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_rag_time","path":"objects/obj_rag_time/obj_rag_time.yy",},},
+    {"id":{"name":"obj_score_display","path":"objects/obj_score_display/obj_score_display.yy",},},
     {"id":{"name":"obj_sound_manager","path":"objects/obj_sound_manager/obj_sound_manager.yy",},},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
@@ -64,6 +65,7 @@
     {"id":{"name":"obj_volume_slider_bar","path":"objects/obj_volume_slider_bar/obj_volume_slider_bar.yy",},},
     {"id":{"name":"obj_xp_up","path":"objects/obj_xp_up/obj_xp_up.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Score_screen","path":"rooms/Score_screen/Score_screen.yy",},},
     {"id":{"name":"Set_Fun","path":"rooms/Set_Fun/Set_Fun.yy",},},
     {"id":{"name":"Title","path":"rooms/Title/Title.yy",},},
     {"id":{"name":"Volume_ctrl","path":"rooms/Volume_ctrl/Volume_ctrl.yy",},},
@@ -102,6 +104,7 @@
     {"roomId":{"name":"Title","path":"rooms/Title/Title.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Volume_ctrl","path":"rooms/Volume_ctrl/Volume_ctrl.yy",},},
+    {"roomId":{"name":"Score_screen","path":"rooms/Score_screen/Score_screen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

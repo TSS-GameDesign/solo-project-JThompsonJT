@@ -7,7 +7,7 @@ if (can_be_hit == true) //Adds health and sets temporary invincibility
 }
 if (hp <= 0)
 {
-	room_restart()
+	room_goto(Score_screen);
 }
 if (hp >= 0)
 {

@@ -55,7 +55,7 @@ if y <= 0 //Throws player down if they are above acceptable area
 if y >= 576 //Restarts if player hits the ground
 {
 	
-	room_restart()
+	room_goto(Score_screen)
 }
 
 frame_counter ++; //Adds 1 to the frame_counter

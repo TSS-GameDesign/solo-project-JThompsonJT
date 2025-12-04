@@ -9,5 +9,5 @@ if (hp <= 0) //Restarts the game if player dies
 {
 	
 	image_index = 8
-	room_restart();
+	room_goto(Score_screen);
 }
