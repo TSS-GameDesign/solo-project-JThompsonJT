@@ -10,7 +10,7 @@ can_be_hit = true; //Tracks when the player can be hit
 invincibility_time = 0; //Tells how long the player has left before they aren't invincible
 invincibility_duration = 60; //Declares the time in frames for how long player is invincible
 frame_counter = 0; //Tracks how many frames have went by
-global.total_score = frame_counter/60
+global.total_score = 0;
 function add_xp(_xp_to_add)
 //Function add_xp(_xp_to_add) adds xp and if player has more or exactly enough xp to level up brings them up a level however brings them down a level if they have negative xp
 {

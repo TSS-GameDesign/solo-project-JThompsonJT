@@ -1,2 +1,2 @@
 score = 0;
-display_text = "Score: " + string(global.total_score); 
+global.display_text = "Score: " + string(global.total_score); 

@@ -1,1 +1,0 @@
-global.shown_score = global.display_text

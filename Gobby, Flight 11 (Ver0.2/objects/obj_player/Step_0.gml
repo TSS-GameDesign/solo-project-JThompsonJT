@@ -52,7 +52,7 @@ if y <= 0 //Throws player down if they are above acceptable area
 {
 	y = -1;
 }
-if y >= 576 //Restarts if player hits the ground
+if y >= 670 //Restarts if player hits the ground
 {
 	
 	room_goto(Score_screen)
@@ -87,4 +87,8 @@ else if hp = 2
 }else if hp = 0
 {
 	image_index = 5;
+}
+if room != Title or Set_Fun or Score_screen
+{
+	global.total_score ++;
 }

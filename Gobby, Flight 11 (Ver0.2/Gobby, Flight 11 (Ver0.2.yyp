@@ -64,6 +64,7 @@
     {"id":{"name":"obj_to_vol","path":"objects/obj_to_vol/obj_to_vol.yy",},},
     {"id":{"name":"obj_volume_slider_bar","path":"objects/obj_volume_slider_bar/obj_volume_slider_bar.yy",},},
     {"id":{"name":"obj_xp_up","path":"objects/obj_xp_up/obj_xp_up.yy",},},
+    {"id":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Score_screen","path":"rooms/Score_screen/Score_screen.yy",},},
     {"id":{"name":"Set_Fun","path":"rooms/Set_Fun/Set_Fun.yy",},},
@@ -105,6 +106,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Volume_ctrl","path":"rooms/Volume_ctrl/Volume_ctrl.yy",},},
     {"roomId":{"name":"Score_screen","path":"rooms/Score_screen/Score_screen.yy",},},
+    {"roomId":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
